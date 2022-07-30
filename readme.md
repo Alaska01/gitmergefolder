@@ -22,3 +22,5 @@
 - Once we are done with the footer we can now repeat the above process.
 - We can assume we are done developing and create a pull request and submit for Review.
 -Thanks
+
+[VIDEO DOCUMENTATION LINK](https://www.youtube.com/watch?v=xT8RfMy6GrE) 
